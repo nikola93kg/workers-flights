@@ -1,0 +1,112 @@
+[
+    {
+        "num": "BA123",
+        "from": "London",
+        "to": "Tel Aviv",
+        "from_date": "1/12/2010",
+        "to_date": "2/12/2010",
+        "plane": "A380",
+        "duration": "6h 21m",
+        "from_gate": 35,
+        "to_gate": 101
+    },
+    {
+        "num": "TA191",
+        "from": "Bangladesh",
+        "to": "Kiev",
+        "from_date": "1/12/2010",
+        "to_date": "2/12/2010",
+        "plane": "A380",
+        "duration": "6h 21m",
+        "from_gate": 35,
+        "to_gate": 101
+    },
+    {
+        "num": "BT187",
+        "from": "Paris",
+        "to": "San Francisco",
+        "from_date": "1/12/2010",
+        "to_date": "2/12/2010",
+        "plane": "A380",
+        "duration": "6h 21m",
+        "from_gate": 35,
+        "to_gate": 101
+    },
+    {
+        "num": "BZ723",
+        "from": "Belgrade",
+        "to": "Tivat",
+        "from_date": "1/12/2010",
+        "to_date": "2/12/2010",
+        "plane": "A380",
+        "duration": "6h 21m",
+        "from_gate": 35,
+        "to_gate": 101
+    },
+    {
+        "num": "KF435",
+        "from": "Tokyo",
+        "to": "Dublin",
+        "from_date": "1/12/2010",
+        "to_date": "2/12/2010",
+        "plane": "A380",
+        "duration": "6h 21m",
+        "from_gate": 35,
+        "to_gate": 101
+    },
+    {
+        "num": "VA783",
+        "from": "Vienna",
+        "to": "Berlin",
+        "from_date": "1/12/2010",
+        "to_date": "2/12/2010",
+        "plane": "A380",
+        "duration": "6h 21m",
+        "from_gate": 35,
+        "to_gate": 101
+    },
+    {
+        "num": "GH943",
+        "from": "Nis",
+        "to": "Amsterdam",
+        "from_date": "1/12/2010",
+        "to_date": "2/12/2010",
+        "plane": "A380",
+        "duration": "6h 21m",
+        "from_gate": 35,
+        "to_gate": 101
+    },
+    {
+        "num": "BF493",
+        "from": "New York",
+        "to": "Istanbul",
+        "from_date": "1/12/2010",
+        "to_date": "2/12/2010",
+        "plane": "A380",
+        "duration": "6h 21m",
+        "from_gate": 35,
+        "to_gate": 101
+    },
+    {
+        "num": "YT423",
+        "from": "Cancun",
+        "to": "Chicago",
+        "from_date": "1/12/2010",
+        "to_date": "2/12/2010",
+        "plane": "A380",
+        "duration": "6h 21m",
+        "from_gate": 35,
+        "to_gate": 101
+    },
+    {
+        "num": "BA123",
+        "from": "Malaga",
+        "to": "Siena",
+        "from_date": "1/12/2010",
+        "to_date": "2/12/2010",
+        "plane": "A380",
+        "duration": "6h 21m",
+        "from_gate": 35,
+        "to_gate": 101
+    }
+]
